@@ -9,7 +9,11 @@ Download the zip file for the version of PHP for Windows that you wish to instal
 1. https://windows.php.net/download/
 # Make sure that you download the correct Thread Safe version 
 Create a new folder in [path-to-wamp]/bin/php/php.#.#.# where [path-to-wamp] is the location that WAMP is installed on your machine and #.#.# corresponds to the version that you are installing,
-                              ![Cupdate-php-new-directory-path](images/update-php-new-directory-path.png)
+
+<p align="center">
+  <img width="460" height="300" src="images/update-php-new-directory-path.png">
+</p>
+
 
 
 2. Extract the all files from your download to the new PHP directory you created in the previous step. That list of files should look similar to the ones captured in the screenshot below :
